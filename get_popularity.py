@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from LivePopularTimes import livepopulartimes
+from lib.LivePopularTimes import livepopulartimes
 
 app = Flask(__name__)
 

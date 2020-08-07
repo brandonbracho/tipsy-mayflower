@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
-from LivePopularTimes import livepopulartimes
+# from LivePopularTimes import livepopulartimes
 import get_popularity
 import mysql.connector
 app = Flask(__name__)

@@ -1,6 +1,6 @@
 [submodule "lib/LivePopularTimes"]
 	path = lib/LivePopularTimes
-	url = https://github.com/GrocerCheck/LivePopularTimes
+	url = git://github.com/GrocerCheck/LivePopularTimes
 [submodule "lib/populartimes"]
 	path = lib/populartimes
 	url = https://github.com/m-wrzr/populartimes

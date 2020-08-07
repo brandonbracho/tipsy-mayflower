@@ -1,0 +1,3 @@
+[submodule "lib/LivePopularTimes"]
+	path = lib/LivePopularTimes
+	url = https://github.com/GrocerCheck/LivePopularTimes

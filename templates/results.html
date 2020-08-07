@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../static/css/main.css" />
+    <title>Tipsy Tips Results</title>
+  </head>
+  <body>
+    <!-- Nav Bar Code -->
+    <nav></nav>
+    <!-- Nav Bar Code End -->
+
+    <!-- Body Code -->
+    <section>
+      <div class="container">
+        <!-- RESULTS WILL GO HERE -->
+        <h1>Hottest Spots In {{city}}</h1>
+
+        {% for spot in spots %}
+        <li>{{spot}}</li>
+        {% endfor %}
+      </div>
+    </section>
+    <!-- Body Code End-->
+
+    <footer></footer>
+
+    <script></script>
+  </body>
+</html>

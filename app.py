@@ -54,7 +54,6 @@ def submit():
     if request.method == 'POST':
         city = request.form['city']
         # location = request.form['location']
-        print(city)
         if city == '':
             return render_template('index.html')
         pop_spots = get_popularity.checkCityPopularity(city)

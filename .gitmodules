@@ -1,0 +1,3 @@
+[submodule "LivePopularTimes"]
+	path = LivePopularTimes
+	url = https://github.com/JoelMorel/LivePopularTimes

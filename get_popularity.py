@@ -8,7 +8,7 @@ app_key = 'AIzaSyDeGaNjFcWO1efbZ4vxnQKcl5-H_6RQeCE'
 proxy = 0
 
 formatted_address_NYC = ['(Mamajuana Cafe Queens), 33-15 56th St, Queens, NY 11377', '(The Delancy), 168 Delancey St, New York, NY 10002', '(Yeras), 86-09 Northern Blvd, Jackson Heights, NY 11372', '(The Ainsworth Midtown), 45 E 33rd St, New York, NY 10016',
-                         '(Banc Cafe), 431 3rd Ave, New York, NY 10016', '(The Gem Saloon), 375 3rd Ave, New York, NY 10016', '(230 Fifth Rooftop Bar), 230 5th Ave, New York, NY 10001', '(Pier 17), 89 South St, New York, NY 10038', '(Frying Pan), 207 12th Ave, New York, NY 10001']
+                         '(Banc Cafe), 431 3rd Ave, New York, NY 10016', '(The Gem Saloon), 375 3rd Ave, New York, NY 10016', '(230 Fifth Rooftop Bar), 230 5th Ave, New York, NY 10001', '(Pier 17), 89 South St, New York, NY 10038', '(Frying Pan), 207 12th Ave, New York, NY 10001', '(GITANO NYC), 76 Varick St, New York, NY 10013']
 formatted_address_AC = ['(The Pool After Dark), 777 Harrahs Blvd, Atlantic City, NJ 08401', '(Premier Nightclub), 1 Borgata Way, Atlantic City, NJ 08401', '(HQ2 Nightclub | Beachclub), 500 Boardwalk, Atlantic City, NJ 08401', '(DAER Nightclub), 1000 Boardwalk, Atlantic City, NJ 08401',
                         '(Anthem Lounge), 2801 Pacific Ave #303, Atlantic City, NJ 08401', '(Boogie Nights), 2831 Boardwalk, Atlantic City, NJ 08401', '(The Chelsea Beach Bar), 3001-3099, Boardwalk, Atlantic City, NJ 08401', '(Ballys Beach Bar), 1900 Boardwalk, Atlantic City, NJ 08401']
 formatted_address_RVC = ['(Kaseys Kitchen & Cocktails), 23 N Park Ave, Rockville Centre, NY 11570', '(The New Vibe Lounge), 60 N Park Ave, Rockville Centre, NY 11570',

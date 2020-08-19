@@ -4,7 +4,7 @@ from LivePopularTimes import livepopulartimes
 app = Flask(__name__)
 
 # Set Up Vsariables
-app_key = 'AIzaSyDeGaNjFcWO1efbZ4vxnQKcl5-H_6RQeCE'
+app_key = 'EXAMPLEKEY'
 proxy = 0
 
 formatted_address_NYC = ['(Mamajuana Cafe Queens), 33-15 56th St, Queens, NY 11377', '(The Delancy), 168 Delancey St, New York, NY 10002', '(Yeras), 86-09 Northern Blvd, Jackson Heights, NY 11372', '(The Ainsworth Midtown), 45 E 33rd St, New York, NY 10016',
